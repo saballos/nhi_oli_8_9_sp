@@ -163,7 +163,12 @@ Below, I show some output examples
 
 <img width="2400" height="1600" alt="OLI_Radiances_B6_B7_volcan_de_Fuego" src="https://github.com/user-attachments/assets/d46136b1-28cb-4ca9-b9fc-bd2fdfb27c25" />
 <img width="2400" height="1600" alt="NHI_pixels_volcan_de_Fuego" src="https://github.com/user-attachments/assets/feee4559-30dc-418a-9afc-975a801a7f7e" />
-<img width="2400" height="1600" alt="folder_files_Fuego" src=https://github.com/user-attachments/assets/9f88668c-2caf-439e-aed9-2dd1cdd6b6fa" />
-![output_folders_and_files_Fuego](https://github.com/user-attachments/assets/5ca67c70-6fdb-4ba2-b9e8-2531d12efeb4)
-![csv_Fuego_file_print](https://github.com/user-attachments/assets/171a8851-d92d-45af-82b9-e1495d9c34af)
+<img width="2400" height="1600" alt="csv_Fuego_file_print" src="https://github.com/user-attachments/assets/171a8851-d92d-45af-82b9-e1495d9c34af" />
+<img width="2400" height="1600" alt="output_folders_and_files_Fuego" src="https://github.com/user-attachments/assets/5ca67c70-6fdb-4ba2-b9e8-2531d12efeb4" />
+<img width="2400" height="1600" alt="folder_files_Fuego" src="https://github.com/user-attachments/assets/9f88668c-2caf-439e-aed9-2dd1cdd6b6fa" />
 
+## Citation
+
+If you use this script in any of your research projects, please cite the papers listed in the *Introduction* of this page, and also the following:
+
+```Saballos, J. A. (2026). Python script to compute the Normalized Hotspot Index (NHI) with Landsat 8 and 9 data. GitHub: https://github.com/saballos/nhi_oli_8_9_sp.py```
