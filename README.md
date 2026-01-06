@@ -104,7 +104,7 @@ For Windows OS users:
 * Activate the enviroment just created by typing: ```modvolc_py_sp\Scripts\activate.bat```, and hitting enter
 * Type ```pip install -r requirements.txt```, and hit enter
 
-## USAGE
+## Usage
 
 To run this script within a ```Linux OS```, execute in your ```linux``` or ```conda``` terminal window the following command line:
 
