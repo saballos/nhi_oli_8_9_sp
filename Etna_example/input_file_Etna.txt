@@ -1,0 +1,7 @@
+volcan = 'Etna volcano'
+lon = 14.995246019
+lat = 37.7550636464
+radio = 8.5
+start = '2024-10-01'
+end = '2024-11-30'
+gmail_name = 'your_registered_gmail_acc_in_GEE'
