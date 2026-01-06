@@ -1,0 +1,7 @@
+volcan = 'Darvaza crater'
+lon = 58.4396
+lat = 40.2525
+radio = 9.5
+start = '2024-10-01'
+end = '2025-03-31'
+gmail_name = 'your_registered_gmail_acc_in_GEE'
