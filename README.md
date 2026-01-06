@@ -160,3 +160,10 @@ where:
 3. If the NHI index found thermal anomalies for the given area and time frame, folders will be created for each anomaly level detected. The mid to low NHI anomalies are the most common type of anomalies detected, since they require less amount of thermal energy. The hotspot NHI thermal anomaly is less common than the previous one, as this requires more thermal energy to be generated; and the extreme NHI anomaly is the least common to be detected, as this is produced by a much larger amount of thermal energy emitted by the target. You can find details in the papers cited in the *Introduction* of this Readme file. Thus, usually only a folder is generated containing the mid to low NHI anomalies. Any of these folders contains **raster GeoTiff** images for the type of NHI thermal anomaly detected, along with their **vector shapefile** (ESRI format) counterpart. These data files are very useful to create maps with your favorite GIS software.
 
 Below, I show some output examples
+
+<img width="2400" height="1600" alt="OLI_Radiances_B6_B7_volcan_de_Fuego" src="https://github.com/user-attachments/assets/d46136b1-28cb-4ca9-b9fc-bd2fdfb27c25" />
+<img width="2400" height="1600" alt="NHI_pixels_volcan_de_Fuego" src="https://github.com/user-attachments/assets/feee4559-30dc-418a-9afc-975a801a7f7e" />
+<img width="2400" height="1600" alt="folder_files_Fuego" src=https://github.com/user-attachments/assets/9f88668c-2caf-439e-aed9-2dd1cdd6b6fa" />
+![output_folders_and_files_Fuego](https://github.com/user-attachments/assets/5ca67c70-6fdb-4ba2-b9e8-2531d12efeb4)
+![csv_Fuego_file_print](https://github.com/user-attachments/assets/171a8851-d92d-45af-82b9-e1495d9c34af)
+
